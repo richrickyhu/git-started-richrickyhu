@@ -1,4 +1,4 @@
-# Technology bingo 3 hét
+# Technology bingo 3 hét 
 
 ## Time tracking system 1.
 > Egy olyan támogató app-ot választanék ami támogatja önálló felülettel is rendelkezik önálló felülettel illetve van lehetõség van  integrációra is így a vezetõknek késõbb egy admin felületen megjeleníthetõ az adatok és mûködik offline verzióban is 
@@ -24,6 +24,7 @@ Felhaszn létrehozása után lista csoportot azon belül létrehozni egy feladat amin
 
 ## A 3D-heavy FPS game
 > Megadott platform specifikusan fejlesztenék
+>> Tools: 
 
 ## Notes app
 > Nativ webalkalmazás ami internet esetén felszinkronizálodik és komonikál egy google drive-ba 
