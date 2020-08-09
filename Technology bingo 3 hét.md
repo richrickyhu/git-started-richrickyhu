@@ -1,3 +1,5 @@
+#Technology bingo 3 hét
+
 ## Time tracking system 1.
 > Egy olyan támogató app-ot választanék ami támogatja önálló felülettel is rendelkezik önálló felülettel illetve van lehetõség van  integrációra is így a vezetõknek késõbb egy admin felületen megjeleníthetõ az adatok és mûködik offline verzióban is 
 >> Tools:  (https://clockify.me/windows-time-tracking)
