@@ -28,10 +28,10 @@ Felhaszn létrehozása után lista csoportot azon belül létrehozni egy feladat amin
 
 ## Smart mirror
 > Nativ webalkalmazás csak bizonyos eszközökön érhetõ el:
-* Képes legyen használni a kamerát
-* Legyen egy adatbázis ami tartalmazza kiegészítõket (id,név,kép elérés)
-* Tárhely ami a képeket tárolja
-* Elkészített kép mentse a telefonra és azt megjelenítse, mellé egy menûsorba megjelnjen a kiegészitõk mini képei amikre kattintva megjelnik a saját képen és mozgatni lehet
+>* Képes legyen használni a kamerát
+>* Legyen egy adatbázis ami tartalmazza kiegészítõket (id,név,kép elérés)
+>* Tárhely ami a képeket tárolja
+>* Elkészített kép mentse a telefonra és azt megjelenítse, mellé egy menûsorba megjelnjen a kiegészitõk mini képei amikre kattintva megjelnik a saját képen és mozgatni lehet
  
 ## A blog
 > Nyílt forráskódú Web alkalmazás használata
